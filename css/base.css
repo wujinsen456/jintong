@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    font-size: 16px;
+    font-family: "苹方",San Francisco Display;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: none;
+}
+button:focus{
+    outline: none;
+}

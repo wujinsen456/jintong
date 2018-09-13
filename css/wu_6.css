@@ -1,0 +1,262 @@
+@import url(base.css);
+.bg{
+    width: 7.5rem;
+    height:auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.space{
+    width: 100%;
+    height: 0.4rem;
+    background: #fff;
+}
+header{
+    width: 100%;
+    height: 0.88rem;
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: #4ebbfe;
+    line-height: 0.88rem;
+}
+header a{
+    width: 0.7rem;
+    height: 0.88rem;
+
+}
+header .icon-taobaozhongchou4qizuoyoujiantou1{
+    margin-left: 0.15rem;
+    line-height: 0.88rem;
+    color: #36a8fe;
+    font-size: 0.36rem;
+    font-weight: bold;
+    float: left;
+}
+header span{
+    float: left;
+    margin-left: 2.6rem;
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: #4ebbfe;
+    line-height: 0.88rem;
+}
+.pull{
+    width: 100%;
+    height: 0.95rem;
+}
+.pull1{
+    width: 2.23rem;
+    height: 0.95rem;
+    float: left;
+}
+.pull1_le{
+    width: 1.4rem;
+    height: 0.95rem;
+    text-align: right;
+    font-size: 0.22rem;
+    color: #3bacfe;
+    line-height: 0.95rem;
+    font-weight: bold;
+    float: left;
+}
+.pull1_le1{
+    width: 1.8rem;
+    height: 0.95rem;
+    text-align: right;
+    font-size: 0.22rem;
+    color: #3bacfe;
+    line-height: 0.95rem;
+    font-weight: bold;
+    float: left;
+}
+.pull1_ri {
+    width: 0.34rem;
+    height: 0.95rem;
+    text-align: right;
+    font-size: 0.22rem;
+    color: #3bacfe;
+    line-height: 1.05rem;
+    font-weight: bold;
+    float: left;
+}
+.pull2{
+    width: 2.7rem;
+    height: 0.95rem;
+    float: left;
+}
+section{
+    width: 100%;
+    height: 7.95rem;
+    padding: 0.12rem 0.24rem 0 0.24rem;
+    box-sizing: border-box;
+    background: #fbfdfe;
+    position: relative;
+}
+.secAll{
+    width: 100%;
+    height: 7.95rem;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}
+.sec_head{
+    width: 100%;
+    height: 0.96rem;
+    font-size: 0.32rem;
+    color: #4f5b64;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    line-height: 0.96rem;
+}
+.sec_head span {
+    color: #41b2fc;
+    font-size: 0.32rem;
+    font-family: 微软雅黑;
+    font-weight: bold;
+}
+.sec_detail{
+    width: 100%;
+    height: 2.67rem;
+    background: #f7fcff;
+    padding-top: 0.7rem;
+}
+.sec_detail1{
+    width: 100%;
+    height: 2.67rem;
+    background: #f7fcff;
+}
+.det_left{
+    width: 1.97rem;
+    height: 1.97rem;
+    background: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.35rem;
+}
+.det_left img{
+    width: 1.47rem;
+    height: 1.47rem;
+}
+.det_right{
+    width: 5rem;
+    height: 1.97rem;
+    padding-left: 0.28rem;
+    box-sizing: border-box;
+    float: left;
+}
+.mediumTop{
+    width: 100%;
+    box-sizing: border-box;
+}
+.thing{
+    width: 2.3rem;
+    height: 0.45rem;
+    float: left;
+    font-size: 0.3rem;
+    color: #646666;
+    font-weight: bold;
+    line-height: 0.4rem;
+}
+.thing_ri{
+    width:2rem;
+    height: 0.45rem;
+    font-size: 0.28rem;
+    line-height: 0.4rem;
+    color: #b5b7b8;
+    font-weight: bold;
+    float: left;
+}
+.status{
+    width: 3.19rem;
+    height: 0.58rem;
+    display: flex;
+    justify-content: space-between;
+}
+.statusLeft{
+    width: 33%;
+    height: 100%;
+}
+.statusLeft1{
+    width: 100%;
+    height: 0.42rem;
+}
+.statusRight{
+    width: 55%;
+    height: 100%;
+}
+.statusPoint{
+    width: 0.05rem;
+    height: 0.05rem;
+    border-radius: 50%;
+    background: #44b5ff;
+    float: left;
+    margin-right: 0.1rem;
+    margin-top: 0.25rem;
+}
+.statusPoint1{
+    width: 0.05rem;
+    height: 0.05rem;
+    border-radius: 50%;
+    background: #36d681;
+    float: left;
+    margin-right: 0.1rem;
+    margin-top: 0.25rem;
+}
+.statusWord{
+    float: right;
+    font-size: 0.22rem;
+    line-height: 0.58rem;
+    color: #b4b6b7;
+}
+.statusWord span{
+    font-size: 0.24rem;
+    margin-left: 0.09rem;
+    color: #36a8fe;
+    font-weight: bold;
+}
+.statusWord1{
+    float: left;
+    font-size: 0.18rem;
+    line-height: 0.58rem;
+    color: #c2c4c5;
+    margin-left: 0.05rem;
+}
+.statusWord1 span{
+    font-size: 0.24rem;
+    font-weight: bold;
+    margin-left: 0.09rem;
+    color: #dadcdd;
+}
+.price{
+    font-size: 0.26rem;
+    color: #fbbe5f;
+    float: right;
+    margin-top: 0.05rem;
+}
+.extra{
+    width: 2.52rem;
+    height: 0.35rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 0.1rem 0;
+}
+.explain{
+    width: 1.21rem;
+    height: 100%;
+    border-radius: 0.17rem;
+    background: #e7f6ff;
+    font-size: 0.2rem;
+    float: left;
+    text-align: center;
+    line-height: 0.35rem;
+    color: #36a8fe;
+}
+
+
+

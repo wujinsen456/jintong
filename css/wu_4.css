@@ -1,0 +1,145 @@
+@import url(base.css);
+.bg{
+    width: 7.5rem;
+    height:auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.space{
+    width: 100%;
+    height: 0.4rem;
+    background: #fff;
+}
+header{
+    width: 100%;
+    height: 0.88rem;
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: #4ebbfe;
+    line-height: 0.88rem;
+    position: relative;
+}
+header a{
+    width: 0.7rem;
+    height: 0.88rem;
+
+}
+header .icon-taobaozhongchou4qizuoyoujiantou1{
+    margin-left: 0.15rem;
+    line-height: 0.88rem;
+    color: #36a8fe;
+    font-size: 0.36rem;
+    font-weight: bold;
+    float: left;
+}
+header span{
+    float: left;
+    margin-left: 3rem;
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: #4ebbfe;
+    line-height: 0.88rem;
+}
+nav{
+    width: 100%;
+    height: 1.02rem;
+    background: #fff;
+    box-shadow: 0 0.1rem 0.5rem 0.008rem #ecf8ff;
+}
+nav ul{
+    width:7.14rem;
+    height: 0.78rem;
+    margin: 0.13rem auto;
+}
+nav li{
+    width: 1.42rem;
+    height: 0.78rem;
+    float: left;
+    font-size: 0.2rem;
+    color: #b3dfff;
+    text-align: center;
+    font-weight: bold;
+    line-height: 0.78rem;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+}
+.commitall{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 2rem;
+    left: 0;
+}
+section{
+    width: 100%;
+    height: 2.28rem;
+    background: #fbfeff;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    border-bottom: 0.01rem solid #f0f5f7;
+    margin-top: 0.25rem;
+}
+.sec_le{
+    width: 0.85rem;
+    height: 2.28rem;
+    float: left;
+}
+.sec_le img{
+    width: 0.85rem;
+    height: 0.85rem;
+    margin-top: 0.31rem;
+}
+.sec_ri{
+    width:6.16rem;
+    height: 2.28rem;
+    padding-left: 0.22rem;
+    box-sizing: border-box;
+    float: left;
+}
+.sec_ri img{
+    width: 1.85rem;
+    height: 1rem;
+    margin-top: 0.2rem;
+}
+.sec_ri_word1{
+    width: 5.94rem;
+    height: 0.5rem;
+    margin-top: 0.44rem;
+    font-size: 0.2rem;
+    color: #cfcfcf;
+    line-height: 0.5rem;
+}
+.word1_ri{
+    float: right;
+    color: #9ed5ff;
+    font-size: 0.2rem;
+    line-height: 0.5rem;
+}
+.sec_ri_word2{
+    height: 0.44rem;
+    line-height: 0.44rem;
+    font-size: 0.26rem;
+    color: #646666;
+    font-weight: bold;
+}
+.sec_ri_word3{
+    height: 0.43rem;
+    line-height: 0.43rem;
+    font-size: 0.22rem;
+    color: #d6d8d9;
+    font-weight: bold;
+}
+.sec_ri_word4{
+    height: 0.48rem;
+}
+.sec_ri_word4 img{
+    width: 0.46rem;
+    height: 0.44rem;
+    float: right;
+    margin-left: 0.5rem;
+}

@@ -1,0 +1,238 @@
+@import url(base.css);
+.bg{
+    width: 7.5rem;
+    height:auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.space{
+    width: 100%;
+    height: 0.4rem;
+    background: #fff;
+}
+header{
+    width: 100%;
+    height: 0.88rem;
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: #4ebbfe;
+    line-height: 0.88rem;
+    position: relative;
+}
+header a{
+    width: 0.7rem;
+    height: 0.88rem;
+
+}
+header .icon-taobaozhongchou4qizuoyoujiantou1{
+    margin-left: 0.15rem;
+    line-height: 0.88rem;
+    color: #36a8fe;
+    font-size: 0.36rem;
+    font-weight: bold;
+    float: left;
+}
+header span{
+    float: left;
+    margin-left: 2.5rem;
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: #4ebbfe;
+    line-height: 0.88rem;
+}
+header .icon-three-point-right{
+    margin-right: 0.26rem;
+    line-height: 0.88rem;
+    color: #36a8fe;
+    font-size: 0.46rem;
+    float: right;
+}
+section{
+    width: 100%;
+    height: 10.93rem;
+    background: #fbfeff;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.select{
+    height: 1.12rem;
+}
+.select_le{
+    font-size: 0.26rem;
+    color: #979899;
+    float: left;
+    height: 1.12rem;
+    line-height: 1.12rem;
+    font-weight: bold;
+}
+.select img{
+    width: 0.38rem;
+    height: 0.3rem;
+    float: right;
+    margin-top: 0.42rem;
+
+}
+.select1{
+    height: 2.51rem;
+    padding: 0.28rem 0 0.49rem 0;
+    box-sizing: border-box;
+    border-bottom: 0.01rem solid #f6f9fa;
+}
+.select1_le{
+    width: 1.76rem;
+    height: 1.74rem;
+    background: #fff;
+    float: left;
+}
+.select1_le img{
+    width: 1.76rem;
+    height: 1.74rem;
+}
+.select1_ri{
+    width: 5rem;
+    height: 1.74rem;
+    background: #fff;
+    float: right;
+}
+.select1_ri1{
+    font-size: 0.3rem;
+    color: #646666;
+    font-weight: bold;
+}
+.select1_ri2{
+    height: 0.48rem;
+    font-size: 0.26rem;
+    color: #36a8fe;
+    line-height: 0.4rem;
+    font-weight: bold;
+}
+.pot{
+    color: #36a8fe;
+    float: left;
+    margin-top: 0.04rem;
+    margin-right: 0.1rem;
+}
+.select1_ri3{
+    height: 0.35rem;
+    font-size: 0.22rem;
+    color: #afb1b2;
+    line-height: 0.3rem;
+    font-weight: bold;
+}
+.select1_ri4{
+    height: 0.6rem;
+    font-size: 0.26rem;
+    color: #fbb548;
+    line-height: 0.52rem;
+    font-weight: bold;
+    margin-top: 0.32rem;
+}
+.select1_ri4_le{
+    width: 1.6rem;
+    height: 0.26rem;
+    float: left;
+}
+.select1_ri4_ri{
+    width: 0.9rem;
+    height: 0.3rem;
+    float: right;
+    line-height: 0.3rem;
+    color: #8a8c8d;
+}
+.line1{
+    height: 0.86rem;
+    border-bottom:  0.01rem solid #f6f9fa;
+}
+.line1 input{
+    width: 5rem;
+    outline: none;
+    height: 0.86rem;
+    line-height:0.86rem;
+    font-size: 0.22rem;
+    color: #c9cbcc;
+    font-weight: bold;
+    border: none;
+    background: #fbfeff;
+    padding-left: 0.3rem;
+}
+.line1_le{
+    height: 0.86rem;
+    line-height:0.86rem;
+    font-size: 0.24rem;
+    color: #8a8c8d;
+    font-weight: bold;
+    float: left;
+}
+.line1_ri{
+    height: 0.86rem;
+    line-height:0.86rem;
+    float: right;
+    font-size: 0.24rem;
+    color: #979899;
+    font-weight: bold;
+}
+
+.line1_ri img{
+    width: 0.38rem;
+    height: 0.3rem;
+    float: right;
+    margin-top: 0.27rem;
+}
+.line1_ri1{
+    height: 0.86rem;
+    line-height:0.86rem;
+    float: right;
+    font-size: 0.24rem;
+    color: #cad6dd;
+    font-weight: bold;
+}
+.line1_ri1 span{
+    font-size: 0.3rem;
+    color: #36a8fe;
+}
+.line1_ri1 img{
+    width: 0.38rem;
+    height: 0.3rem;
+    float: right;
+    margin-top: 0.27rem;
+}
+.foot_ri{
+    width: 100%;
+    height: 1.08rem;
+    float: right;
+    display: flex;
+    background: #f1faff;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 0.24rem;
+}
+.foot_ri_le{
+    width: 3.42rem;
+    height: 1.08rem;
+    font-size: 0.24rem;
+    color: #84cbfe;
+    font-weight: bold;
+    line-height: 1.08rem;
+}
+.foot_ri_le span{
+    font-size: 0.36rem;
+    color: #36a8fe;
+    font-weight: bold;
+}
+.foot_ri_ri {
+    width: 3.5rem;
+    height: 0.6rem;
+    border-radius: 0.3rem;
+    background: #3bacfe;
+    font-size: 0.2rem;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.6rem;
+    margin-right: 0.24rem;
+    box-shadow: 0 0.08rem 0.2rem 0.01rem #bbe2ff;
+}
